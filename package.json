@@ -54,7 +54,7 @@
     "chokidar": "^1.6.0",
     "coffee-script": "~1.11.0",
     "commander": "~2.9.0",
-    "commonjs-require-definition": "~0.5.0",
+    "commonjs-require-definition": "https://github.com/jasonpang/commonjs-require-definition.git#worker-support",
     "debug": "~2.2.0",
     "deppack": "brunch/deppack",
     "fcache": "~0.3.0",
@@ -63,12 +63,12 @@
     "micro-es7-shim": "^0.1.0",
     "micro-promisify": "~0.1.0",
     "mkdirp": "~0.5.0",
+    "promise.prototype.finally": "^2",
     "read-components": "~0.7.0",
     "serve-brunch": "~0.1.0",
     "since-app-start": "~0.3.0",
     "skemata": "~0.1.0",
     "source-map": "~0.5.0",
-    "promise.prototype.finally": "^2",
     "universal-path": "^0.1.0"
   },
   "devDependencies": {
